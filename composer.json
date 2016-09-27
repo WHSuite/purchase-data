@@ -1,0 +1,17 @@
+{
+    "name": "whsuite/purchase-data",
+    "description": "Purchase data helper for WHSuite Framework",
+    "license": "Private",
+    "authors": [
+        {
+            "name": "WHSuite",
+            "email": "info@whsuite.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Whsuite\\PurchaseData" : "src/"
+        }
+    }
+}
